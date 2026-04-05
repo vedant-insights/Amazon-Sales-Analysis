@@ -32,6 +32,13 @@ This project focuses on performing Exploratory Data Analysis (EDA) on an Amazon 
 * Observed pricing patterns affecting sales
 * Found trends in customer purchasing behavior
 
+## 📊 Visualizations
+
+### Sales Distribution
+images/Screenshot 2026-04-05 075314.png, Screenshot 2026-04-05 075300.png
+
+This visualization shows the overall distribution of sales across different products. It helps identify which products generate the highest revenue and highlights the presence of any outliers or skewness in sales patterns.
+
 ## How to Run
 
 1. Download the `.ipynb` file
