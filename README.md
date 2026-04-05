@@ -1,2 +1,2 @@
 # Amazon-Sales-Analysis
-Added Amazon Data Analysis Projects
+Exploratory Data Analysis on Amazon Sales Dataset using Python
